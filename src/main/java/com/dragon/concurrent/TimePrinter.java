@@ -4,6 +4,7 @@ import java.util.Date;
 
 /**
  * Created by dsy on 2018/3/1
+ * 多线程的实现方式
  */
 public class TimePrinter implements Runnable {
     int pauseTime;
