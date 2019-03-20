@@ -1,4 +1,4 @@
-package com.dragon.book.javacore.chapter13.tereSet;
+package com.dragon.book.javacore.chapter14.tereSet;
 
 
 /**

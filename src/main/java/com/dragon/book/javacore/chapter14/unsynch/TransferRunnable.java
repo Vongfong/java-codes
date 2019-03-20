@@ -1,6 +1,5 @@
-package com.dragon.book.javacore.chapter13.unsynch;
+package com.dragon.book.javacore.chapter14.unsynch;
 
-import java.beans.Transient;
 import java.math.BigDecimal;
 
 /**

@@ -1,4 +1,4 @@
-package com.dragon.book.javacore.chapter13.list;
+package com.dragon.book.javacore.chapter14.list;
 
 import java.util.HashSet;
 import java.util.Iterator;

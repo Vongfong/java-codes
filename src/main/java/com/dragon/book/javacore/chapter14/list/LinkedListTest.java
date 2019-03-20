@@ -1,4 +1,4 @@
-package com.dragon.book.javacore.chapter13.list;
+package com.dragon.book.javacore.chapter14.list;
 
 import java.util.Iterator;
 import java.util.LinkedList;
