@@ -29,7 +29,7 @@ public class Question5 {
     }
 
     public static void main(String[] args) {
-        StringBuffer str = new StringBuffer("ACCC B DDD EEEE F  D D FF       ");
+        StringBuffer str = new StringBuffer("ACCC B DDD EEEE F  D D FF         ");
         System.out.println(replaceSpace(str));
     }
 }
