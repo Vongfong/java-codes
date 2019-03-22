@@ -1,5 +1,8 @@
 package com.dragon.cyc.pointOffer;
 
+/**
+ * 数组中重复的数字
+ */
 public class Question3 {
 
     public static boolean duplicate(int[] nums, int length, int[] duplication) {

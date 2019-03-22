@@ -1,5 +1,8 @@
 package com.dragon.cyc.pointOffer;
 
+/**
+ * 二维数组中的查找
+ */
 public class Question4 {
 
     public static boolean find(int target, int[][] matrix) {
