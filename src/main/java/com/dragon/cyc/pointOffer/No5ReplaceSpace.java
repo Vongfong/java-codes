@@ -5,7 +5,7 @@ package com.dragon.cyc.pointOffer;
  * Time: 2019-03-21 17:32
  * 替换空格
  */
-public class Question5 {
+public class No5ReplaceSpace {
 
     public static String replaceSpace(StringBuffer str) {
         int P1 = str.length() -1;

@@ -3,7 +3,7 @@ package com.dragon.cyc.pointOffer;
 /**
  * 数组中重复的数字
  */
-public class Question3 {
+public class No3DuplicateNum {
 
     public static boolean duplicate(int[] nums, int length, int[] duplication) {
         if (nums == null || length <= 0) {

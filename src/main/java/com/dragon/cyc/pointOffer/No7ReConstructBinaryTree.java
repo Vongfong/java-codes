@@ -16,7 +16,7 @@ import com.dragon.util.BinaryTreeNode;
  * User: dengshenyan
  * Time: 2019-04-04 16:39
  */
-public class No6ReConstructBinaryTree {
+public class No7ReConstructBinaryTree {
     public static void main(String[] args) {
         int[] preOrder={1,2,4,7,3,5,6,8};
         int[] inOrder={4,7,2,1,5,3,8,6};

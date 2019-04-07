@@ -8,7 +8,7 @@ import java.util.Stack;
  * Time: 2019-03-22 17:39
  * 从尾到头打印链表
  */
-public class Question6 {
+public class No6ReverseList {
 
     private  class ListNode {
         ListNode next;

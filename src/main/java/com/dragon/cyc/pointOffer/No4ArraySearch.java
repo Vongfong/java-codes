@@ -3,7 +3,7 @@ package com.dragon.cyc.pointOffer;
 /**
  * 二维数组中的查找
  */
-public class Question4 {
+public class No4ArraySearch {
 
     public static boolean find(int target, int[][] matrix) {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
